@@ -41,6 +41,18 @@ This project was developed as part of an **industry internship** and focuses on 
 
 ---
 
+## 🧠 Database Design
+
+The system uses a normalized relational database with the following entity relationships:
+
+- Visitor and Visitor_Request store core visitor visit information
+- Employee and Department define host and department assignments
+- Nationality and Document tables enrich visitor identity data
+- Allowed_Items and Item_Details track visitor-brought items
+- Approval_Status and Request_Status govern workflow state
+
+---
+
 ## 🧠 System Architecture
 
 The application follows the **Model–View–Controller (MVC)** architecture:
