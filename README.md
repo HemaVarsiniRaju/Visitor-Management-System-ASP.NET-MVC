@@ -100,7 +100,7 @@ B.Tech – Computer Science & Engineering
 
 ---
 
-## 🙏 Acknowledgement
+## ✅ Acknowledgement
 
 This project was developed as part of an internship program with industry guidance and academic supervision.  
 It reflects practical exposure to full-stack development and enterprise application design.
