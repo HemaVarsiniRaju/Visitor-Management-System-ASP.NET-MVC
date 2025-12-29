@@ -53,7 +53,6 @@ Entity Framework is used for database communication, ensuring data integrity, sc
 ---
 
 ## 📁 Project Structure
-## Project Structure
 
 - src.zip       : Complete ASP.NET MVC source code (download and extract)
 - database/     : ER diagram and SQL schema
