@@ -1,4 +1,5 @@
 # Visitor Management System (ASP.NET MVC)
+![Image description](screenshot/login.png)
 
 A full-stack **Visitor Management System** developed using **ASP.NET MVC**, **Entity Framework**, and **Microsoft SQL Server** to digitalize visitor registration, approval, tracking, and gate-pass management within an organization.
 
